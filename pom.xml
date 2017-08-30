@@ -70,11 +70,11 @@
 	  一般添加完依赖会在类路径添加一个log4j2.xml文件
 	 -->
 	
-	<!--<dependency>
+	<dependency>
      <groupId>org.apache.logging.log4j</groupId>
      <artifactId>log4j-core</artifactId>
     <version>2.7</version>
-   </dependency>-->
+   </dependency>
    
    <!-- 整合jackson (在本项目中对请求的响应我们要采用json格式) -->
    
